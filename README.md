@@ -1,6 +1,5 @@
 # Programacao-Web
 ## Tarefa 6 Angular E Typescript
--------------
 Leonardo Gomes do Prado Leonel
 RA: 212116
 
