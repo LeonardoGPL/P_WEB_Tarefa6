@@ -1,5 +1,8 @@
 # Programacao-Web
 ## Tarefa 6 Angular E Typescript
+-------------
+Leonardo Gomes do Prado Leonel
+RA: 212116
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
